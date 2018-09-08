@@ -1,0 +1,17 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+header{
+	position: fixed;
+}
+section{
+	position: absolute;
+	top:130px;
+}
+
+.ust-satir{
+	height: 100px;
+	background-color: black;
+}
